@@ -1,0 +1,9 @@
+{
+    "require": {
+        "vimeo/vimeo-api": "^3.0"
+    },
+    "config": {
+
+        "platform-check": false
+    }
+}
